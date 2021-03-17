@@ -4,7 +4,7 @@ Hi there 👋, my name is Redson
 My hobby is programming.
 
 - 😄 Fun fact: My name really is Redson, my friends make a joke with this calling me of Redstone.
-- ⚡ Skills: Html,CSS,Javascript,Python,[GOhugo](gohugo.io/),Lua,YML,XML.
+- ⚡ Skills: ![Html](images/HTML5-Logo-32.png)/![CSS](images/CSS-3-32.png)/![Python](images/www.python.org.ico),![](images/gohugo.io.png)(gohugo.io/),![Lua](images/074bab0a.png),YML,XML.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on [LunarPy](https://github.com/LunarPyOrg)
 
