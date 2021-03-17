@@ -23,4 +23,4 @@ Connect with me:
 ---
 [<img src="images/envelope.svg" width="32">](mailto:redsonbr81@protonmail.com)  [<img src="images/telegram-original.svg" width="32">](https://t.me/RedsonBr) [<img src="images/steam.svg" width="32">](https://steamcommunity.com/id/RedsonBr) [<img src="images/discord.svg" width="32">](https://discord.com/invite/rYzquvV)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsonBr140&show_icons=true&hide_border=true&theme=radical)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsonBr140&show_icons=true&hide_border=true)]()
