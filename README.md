@@ -15,7 +15,7 @@ My hobby is programming.
 - [Linux Sem Pendrive](https://cafecomterminal.netlify.app/posts/linux-sem-pendrive/)
 <!-- MEDIUM-STORY-LIST:END -->
 
-Connect with me:
+<!-- Connect with me: -->
 ---
 
 
