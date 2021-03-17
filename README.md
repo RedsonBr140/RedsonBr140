@@ -13,6 +13,7 @@ My hobby is programming.
 <!-- MEDIUM-STORY-LIST:START -->
 - [Como mudar o hostname da sua máquina](https://www.cafecomterminal.cf/posts/mudar-hostname/)
 - [Linux Sem Pendrive](https://www.cafecomterminal.cf/posts/linux-sem-pendrive/)
+- [Iwd Substituto Networkmanager](https://www.cafecomterminal.cf/posts/iwd-substituto-networkmanager/)
 <!-- MEDIUM-STORY-LIST:END -->
 
 
