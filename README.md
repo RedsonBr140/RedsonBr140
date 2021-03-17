@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Redson
+Hi there 👋, my name is Redson
+---
 
 My hobby is programming.
 
@@ -6,8 +7,8 @@ My hobby is programming.
 - ⚡ Skills: Html,CSS,Javascript,Python,[GOhugo](gohugo.io/),Lua,YML,XML.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on [LunarPy](https://github.com/LunarPyOrg)
-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsonBr140&show_icons=true&hide_border=true&theme=dracula)]()
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsonBr140&show_icons=true&hide_border=true&theme=radical)]()
 
 📚 My blog with friends(it's in Portuguese):
 <!-- Ignore the medium-story comment, it's just for integration of the RSS Feed -->
