@@ -5,7 +5,7 @@ My hobby is programming.
 - 😄 Fun fact: My name really is Redson, my friends make a joke with this calling me of Redstone.
 - ⚡ Skills: (fa javascript)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsonBr140&show_icons=true&hide_border=true&theme=dracula)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsonBr140&show_icons=true&hide_border=true&theme=dracula)]()
 
 <!--
 **RedsonBr140/RedsonBr140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
