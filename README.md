@@ -14,6 +14,8 @@ My hobby is programming.
 - [Como mudar o hostname da sua máquina](https://www.cafecomterminal.cf/posts/mudar-hostname/)
 - [Linux Sem Pendrive](https://www.cafecomterminal.cf/posts/linux-sem-pendrive/)
 - [Iwd Substituto Networkmanager](https://www.cafecomterminal.cf/posts/iwd-substituto-networkmanager/)
+- [Como Instalar o Yay no Arch e derivados](https://www.cafecomterminal.cf/posts/como-instalar-o-yay/)
+- [Os 10 Principais Comandos para iniciantes no Linux](https://www.cafecomterminal.cf/posts/os-10-principais-comandos/)
 <!-- MEDIUM-STORY-LIST:END -->
 
 
