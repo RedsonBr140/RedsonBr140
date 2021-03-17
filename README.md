@@ -11,8 +11,8 @@ My hobby is programming.
 📚 My Linux Blog(it's in Portuguese):
 <!-- Ignore the medium-story comment, it's just for integration of the RSS Feed -->
 <!-- MEDIUM-STORY-LIST:START -->
-- [Como mudar o hostname da sua máquina](https://cafecomterminal.netlify.app/posts/mudar-hostname/)
-- [Linux Sem Pendrive](https://cafecomterminal.netlify.app/posts/linux-sem-pendrive/)
+- [Como mudar o hostname da sua máquina](https://www.cafecomterminal.cf/posts/mudar-hostname/)
+- [Linux Sem Pendrive](https://www.cafecomterminal.cf/posts/linux-sem-pendrive/)
 <!-- MEDIUM-STORY-LIST:END -->
 
 
