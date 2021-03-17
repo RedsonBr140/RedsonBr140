@@ -8,6 +8,8 @@ My hobby is programming.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsonBr140&show_icons=true&hide_border=true&theme=dracula)]()
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Como mudar o hostname da sua máquina](https://cafecomterminal.netlify.app/posts/mudar-hostname/)
+- [Linux Sem Pendrive](https://cafecomterminal.netlify.app/posts/linux-sem-pendrive/)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!--
