@@ -11,11 +11,11 @@ My hobby is programming.
 📚 My Linux Blog(it's in Portuguese):
 <!-- Ignore the medium-story comment, it's just for integration of the RSS Feed -->
 <!-- MEDIUM-STORY-LIST:START -->
+- [Drivers NVIDIA no FreeBSD](https://www.cafecomterminal.cf/posts/drivers-nvidia-freebsd/)
 - [Como instalar e configurar o oksh no Linux](https://www.cafecomterminal.cf/posts/como-instalar-configurar-oksh/)
 - [Como mudar o hostname da sua máquina](https://www.cafecomterminal.cf/posts/mudar-hostname/)
 - [Os 10 Principais Comandos para iniciantes no Linux](https://www.cafecomterminal.cf/posts/os-10-principais-comandos/)
 - [Como usar o 'fsck' para Reparar Erros do Sistema de Arquivos no Linux](https://www.cafecomterminal.cf/posts/fsck/)
-- [O Guia dos Tiling Window Managers (TWMs)](https://www.cafecomterminal.cf/posts/guia-dos-twms/)
 <!-- MEDIUM-STORY-LIST:END -->
 
 
