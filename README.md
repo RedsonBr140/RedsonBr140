@@ -13,9 +13,7 @@ My hobby is programming.
 <!-- MEDIUM-STORY-LIST:START -->
 - [Instalação e configuração do BedRock Linux](https://www.cafecomterminal.cf/posts/instalacao_e_config_bedrock_linux/)
 - [Drivers NVIDIA no FreeBSD](https://www.cafecomterminal.cf/posts/drivers-nvidia-freebsd/)
-- [Como instalar o Node.JS no Ubuntu e derivados](https://www.cafecomterminal.cf/posts/como-instalar-o-node/)
-- [Como instalar qualquer distro Linux sem pendrive](https://www.cafecomterminal.cf/posts/linux-sem-pendrive/)
-- [Iwd, conheça um possível substituto ao NetworkManager](https://www.cafecomterminal.cf/posts/iwd-substituto-networkmanager/)
+- [O Guia dos Tiling Window Managers (TWMs)](https://www.cafecomterminal.cf/posts/guia-dos-twms/)
 <!-- MEDIUM-STORY-LIST:END -->
 
 
