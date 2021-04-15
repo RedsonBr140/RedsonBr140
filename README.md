@@ -11,7 +11,10 @@ My hobby is programming.
 <!-- 📚 My Linux Blog(it's in Portuguese): -->
 <!-- Ignore the medium-story comment, it's just for integration of the RSS Feed -->
 <!-- <!-- MEDIUM-STORY-LIST:START -->
-<!-- <!-- MEDIUM-STORY-LIST:END -->
+- [Instalação e configuração do BedRock Linux](https://www.cafecomterminal.cf/posts/instalacao_e_config_bedrock_linux/)
+- [Drivers NVIDIA no FreeBSD](https://www.cafecomterminal.cf/posts/drivers-nvidia-freebsd/)
+- [O Guia dos Tiling Window Managers (TWMs)](https://www.cafecomterminal.cf/posts/guia-dos-twms/)
+<!-- MEDIUM-STORY-LIST:END -->
 
 
 Connect with me:
