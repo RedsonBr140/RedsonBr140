@@ -8,7 +8,7 @@ My hobby is programming.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on [LunarPy](https://github.com/LunarPyOrg)
 
-📚 My Linux Blog(it's in Portuguese):
+<!-- 📚 My Linux Blog(it's in Portuguese): -->
 <!-- Ignore the medium-story comment, it's just for integration of the RSS Feed -->
 <!-- <!-- MEDIUM-STORY-LIST:START -->
 <!-- <!-- MEDIUM-STORY-LIST:END -->
@@ -16,6 +16,6 @@ My hobby is programming.
 
 Connect with me:
 ---
-[<img src="images/envelope.svg" width="32">](mailto:redsonbr81@protonmail.com)  [<img src="images/telegram-original.svg" width="32">](https://t.me/RedsonBr) [<img src="images/steam.svg" width="32">](https://steamcommunity.com/id/RedsonBr) [<img src="images/discord.svg" width="32">](https://discord.com/invite/rYzquvV)
+[<img src="images/envelope.svg" width="32">](mailto:redsonbr81@protonmail.com)  [<img src="images/telegram-original.svg" width="32">](https://t.me/RedsonBr) [<img src="images/steam.svg" width="32">](https://steamcommunity.com/id/RedsonBr)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsonBr140&show_icons=true&hide_border=true)]()
