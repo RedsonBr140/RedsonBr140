@@ -10,11 +10,11 @@ My hobby is programming.
 
  📚 My Linux Blog(it's in Portuguese):
 <!-- FEED:START -->
+- [Aprenda a usar o Runit Init System](https://opentechlife.tk/posts/como-usar-runit/)
 - [Flatpak Só Reconhece Pasta Downloads? Veja aqui o que fazer](https://opentechlife.tk/posts/flatpak-so-reconhece-downloads/)
 - [Como instalar e configurar o oksh no Linux](https://opentechlife.tk/posts/como-instalar-configurar-oksh/)
 - [Como instalar o Node.JS no Ubuntu e derivados](https://opentechlife.tk/posts/como-instalar-o-node/)
 - [Como mudar o hostname da sua máquina](https://opentechlife.tk/posts/mudar-hostname/)
-- [Como instalar qualquer distro Linux sem pendrive](https://opentechlife.tk/posts/linux-sem-pendrive/)
 <!-- FEED:END -->
 
 
