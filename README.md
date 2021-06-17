@@ -10,11 +10,11 @@ My hobby is programming.
 
  📚 My Linux Blog(it's in Portuguese):
 <!-- FEED:START -->
+- [Windows 11!? Será que Vale a Pena?](https://opentechlife.tk/posts/windows-11-vale-a-pena/)
 - [Como Gravar a Tela no Wayland](https://opentechlife.tk/posts/como-gravar-a-tela-no-wayland/)
 - [Como instalar o Batocera Plus em dual boot com Linux](https://opentechlife.tk/posts/como-instalar-o-batocera-plus-em-dual-boot-com-linux/)
 - [Aprenda a usar o Runit Init System](https://opentechlife.tk/posts/como-usar-runit/)
 - [Flatpak Só Reconhece Pasta Downloads? Veja aqui o que fazer](https://opentechlife.tk/posts/flatpak-so-reconhece-downloads/)
-- [Como instalar e configurar o oksh no Linux](https://opentechlife.tk/posts/como-instalar-configurar-oksh/)
 <!-- FEED:END -->
 
 
