@@ -10,11 +10,11 @@ My hobby is programming.
 
  📚 My Linux Blog(it's in Portuguese):
 <!-- FEED:START -->
+- [Steam Deck, isso é o que posso dizer dele](https://opentechlife.tk/posts/steam-deck-e-o-que-posso-dizer-dele/)
 - [Como Instalar Roblox No Linux](https://opentechlife.tk/posts/como-instalar-roblox-no-linux/)
 - [Windows 11! Mas e agora?](https://opentechlife.tk/posts/windows-11-lan%C3%A7ado/)
 - [Tudo que você precisa saber sobre Swappiness!](https://opentechlife.tk/posts/swappiness-guide/)
 - [Scrcpy, Espelhe Seu Celular!](https://opentechlife.tk/posts/scrcpy-espelhe-a-tela/)
-- [Windows 11!? Será que Vale a Pena?](https://opentechlife.tk/posts/windows-11-vale-a-pena/)
 <!-- FEED:END -->
 
 
