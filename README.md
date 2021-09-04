@@ -22,6 +22,16 @@ printf "Hello world\n"
 
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=yellow"/> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/> <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/> 
 
+## 📱 Social Networks
+
+<div>
+  <a href="https://www.instagram.com/redson.uss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/RedsonBr1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="http://discord.gg/dY7zeuT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:redsonbr81@yandex.com"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/RedsonBr" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+</div>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/RedsonBr140/RedsonBr140">
@@ -54,3 +64,5 @@ printf "Hello world\n"
 - [Windows 11! Mas e agora?](https://opentechlife.tk/posts/windows-11-lan%C3%A7ado/)
 - [Tudo que você precisa saber sobre Swappiness!](https://opentechlife.tk/posts/swappiness-guide/)
 <!-- FEED:END -->
+
+![Commit Snake](https://github.com/RedsonBr140/RedsonBr140/blob/output/github-contribution-grid-snake.svg)
