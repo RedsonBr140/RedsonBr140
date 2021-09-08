@@ -58,11 +58,11 @@ printf "Hello world\n"
 
 ## 📚 My Blog:
 <!-- FEED:START -->
+- [Melhores apps Open Source para seu Android!](https://opentechlife.tk/posts/melhores-apps-open-source-para-seu-android/)
 - [7 Distros Linux Minimalistas!](https://opentechlife.tk/posts/7-distros-minimalistas/)
 - [Steam Deck, isso é o que posso dizer dele](https://opentechlife.tk/posts/steam-deck-e-o-que-posso-dizer-dele/)
 - [Como Instalar Roblox No Linux](https://opentechlife.tk/posts/como-instalar-roblox-no-linux/)
 - [Windows 11! Mas e agora?](https://opentechlife.tk/posts/windows-11-lan%C3%A7ado/)
-- [Tudo que você precisa saber sobre Swappiness!](https://opentechlife.tk/posts/swappiness-guide/)
 <!-- FEED:END -->
 
 ![Commit Snake](https://github.com/RedsonBr140/RedsonBr140/blob/output/github-contribution-grid-snake.svg)
