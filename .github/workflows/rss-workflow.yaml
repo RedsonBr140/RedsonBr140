@@ -1,4 +1,4 @@
-name: Latest Medium story workflow
+name: OpenTech Life RSS
 on:
   schedule:
     # Runs every hour
@@ -7,11 +7,11 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest Medium post
+    name: Update this repo's README with latest OpenTech Life Post
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "FEED"
-          feed_list: "https://opentechlife.tk/index.xml"
+          feed_list: "https://www.opentechlife.tk/feed.xml"
