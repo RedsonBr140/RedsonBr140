@@ -57,11 +57,11 @@ fn main() {
 
 ## 📚 My Blog:
 <!-- FEED:START -->
+- [Wallpaper Animado em Linux](https://opentechlife.tk/posts/wallpaper-animado-em-linux/)
 - [Entenda Tudo Sobre o HD! - Parte 1](https://opentechlife.tk/posts/entenda-tudo-sobre-o-hd-pt1/)
 - [4 distros para iniciantes](https://opentechlife.tk/posts/quatro-distros-para-iniciantes/)
 - [Melhores Apps Open-Source para seu Android](https://opentechlife.tk/posts/melhores-apps/)
 - [7 Distros Linux Minimalistas!](https://opentechlife.tk/posts/7-distros-minimalistas/)
-- [Steam Deck, isso é o que posso dizer dele](https://opentechlife.tk/posts/Steam-deck-e-o-que-posso-dizer-dele/)
 <!-- FEED:END -->
 
 ![Commit Snake](https://github.com/RedsonBr140/RedsonBr140/blob/output/github-contribution-grid-snake.svg)
