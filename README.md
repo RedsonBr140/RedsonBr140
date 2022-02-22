@@ -52,9 +52,9 @@ printf "Hello world"
 
 ## 📚 My Blog:
 <!-- FEED:START -->
+- [Chrome OS Flex, Chrome OS para qualquer um!!](https://opentechlife.tk/posts/chrome-os-flex-chrome-os-para-qualquer-um/)
 - [Godot 4.0 Está Chegando, e Com Suporte Ao Vulkan](https://opentechlife.tk/posts/godot-4.0-esta-chegando,-e-com-suporte-ao-vulkan/)
 - [Como burlar o banimento do Telegram nos países](https://opentechlife.tk/posts/como-burlar-o-banimento-do-telegram/)
 - [Wallpaper Animado em Linux](https://opentechlife.tk/posts/wallpaper-animado-em-linux/)
 - [Entenda Tudo Sobre o HD! - Parte 1](https://opentechlife.tk/posts/entenda-tudo-sobre-o-hd-pt1/)
-- [4 distros para iniciantes](https://opentechlife.tk/posts/quatro-distros-para-iniciantes/)
 <!-- FEED:END -->
