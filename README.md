@@ -8,8 +8,8 @@ Github: https://github.com/mamutal91
 
 ```rs
 fn main() {
-let hello = "Hello, World!";
-println!("{}", hello);
+  let hello = "Hello, World!";
+  println!("{}", hello);
 }
 ```
 <!--
