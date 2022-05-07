@@ -36,11 +36,11 @@ fn main() {
 <a href="https://github.com/RedsonBr140/RedsonBr140">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedsonBr140&hide=cmake,matlab&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Redson's GitHub Stats" />
 </a>
-
+<br>
 <a href="https://github.com/RedsonBr140/RedsonBr140">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedsonBr140&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Redson's GitHub Stats" />
 </a>
-
+<!--
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/RedsonBr140/ppfetch-rs">
@@ -50,6 +50,7 @@ fn main() {
 <a href="https://github.com/RedsonBr140/telegram-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedsonBr140&repo=telegram-bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
+-->
 <!--
 ## 📚 My Blog:
 !-- FEED:START --
