@@ -6,10 +6,15 @@ Github: https://github.com/mamutal91
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RedsonBr140.RedsonBr140)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```rs
-fn main() {
-  let hello = String::from("Hello, World!");
-  println!("{hello}");
+```c
+#include <stdio.h>
+
+int main(){
+  int i;
+  char hello[13] = "Hello, World!";
+  for(i=0; i <= 13; i++){
+    printf("%c", hello[i]);
+  }
 }
 ```
 <!--
@@ -20,7 +25,7 @@ fn main() {
 -->
 ## 🔧 My current interest in technologies & tools
 
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Rust" src="https://img.shields.io/badge/Rust-white.svg?style=for-the-badge&logo=rust&logoColor=red"/> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Libreddit" src="https://img.shields.io/badge/Libreddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/> 
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/C-e0e0e0.svg?style=for-the-badge&logo=c&logoColor=blue"/> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Libreddit" src="https://img.shields.io/badge/Libreddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/> 
 
 ## 📱 Social Networks
 
@@ -34,7 +39,7 @@ fn main() {
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/RedsonBr140/RedsonBr140">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedsonBr140&hide=cmake,matlab&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Redson's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedsonBr140&hide=cmake,rust,elisp,vim&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Redson's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/RedsonBr140/RedsonBr140">
