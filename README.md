@@ -39,7 +39,7 @@ int main(){
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/RedsonBr140/RedsonBr140">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redsonbr140&langs_count=6&hide=vim%20script,emacs%20lisp,cmake&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Redson's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redsonbr140&langs_count=10&hide=vim%20script,makefile&exclude_repo=wofi,Dotfiles&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Redson's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/RedsonBr140/RedsonBr140">
