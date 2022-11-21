@@ -12,11 +12,11 @@ func main(){
 }
 ```
 <a href="https://github.com/RedsonBr140/RedsonBr140">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redsonbr140&langs_count=10&hide=vim%20script,makefile&exclude_repo=wofi,Dotfiles&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Redson's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redsonbr140&langs_count=10&hide=vim%20script,makefile&exclude_repo=wofi,Dotfiles&text_color=8a919a&icon_color=6aa6f8&bg_color=0d1117" alt="Redson's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/RedsonBr140/RedsonBr140">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedsonBr140&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&exclude_repo=learning-oop,wofi" alt="Redson's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedsonBr140&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0d1117" alt="Redson's GitHub Stats" />
 </a>
 <!--
 ## 🗂️ Highlight Projects
