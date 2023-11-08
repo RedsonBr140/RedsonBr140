@@ -12,7 +12,8 @@ func main(){
 }
 ```
 <a href="https://github.com/RedsonBr140/RedsonBr140">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=redsonbr140&langs_count=10&hide=vim%20script,makefile&exclude_repo=wofi,Dotfiles&text_color=8a919a&icon_color=6aa6f8&bg_color=0d1117" alt="Redson's GitHub Stats" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RedsonBr140&langs_count=5&custom_title=Time%20Spent%20Coding&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0d1117" alt="Redson's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/RedsonBr140/RedsonBr140">
